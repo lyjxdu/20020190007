@@ -7,11 +7,11 @@
 
 ### 一、学习开源硬件的工具：
 
-·git
+* git
 
-·English
+* English
 
-·share
+* share
 
 ### 二、git命令
 
