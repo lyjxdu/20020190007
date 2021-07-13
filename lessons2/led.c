@@ -1,7 +1,7 @@
-'''// C++ code
-//
-int i;
-void setup()
+  // C++ code
+  //
+  int i;
+  void setup()
 {
   pinMode(1, OUTPUT);
   pinMode(2, OUTPUT);
@@ -28,4 +28,4 @@ void loop()
     digitalWrite(i, LOW);
     delay(200);// for 1000 millisecond(s)
   }
-}'''
+}
