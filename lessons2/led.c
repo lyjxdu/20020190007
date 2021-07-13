@@ -1,7 +1,7 @@
-  // C++ code
-  //
-  int i;
-  void setup()
+// C++ code
+//
+int i;
+void setup()
 {
   pinMode(1, OUTPUT);
   pinMode(2, OUTPUT);
