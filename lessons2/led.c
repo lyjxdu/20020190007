@@ -1,5 +1,4 @@
-    
-// C++ code
+'''// C++ code
 //
 int i;
 void setup()
@@ -29,4 +28,4 @@ void loop()
     digitalWrite(i, LOW);
     delay(200);// for 1000 millisecond(s)
   }
-}
+}'''
