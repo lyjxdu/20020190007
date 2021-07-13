@@ -1,5 +1,4 @@
-...
-// C++ code
+    // C++ code
 //
 int i;
 void setup()
