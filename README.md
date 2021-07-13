@@ -47,3 +47,6 @@
 #### 2. 虚拟开发环境tinkercad
 
 &#8195;&#8195;只执行一次的命令写入setup()中，循环执行的命令写入loop()中。
+
+
+![image](https://github.com/lyjxdu/20020190007/blob/main/lessons2/%E6%B5%81%E6%B0%B4%E7%81%AF.png)
